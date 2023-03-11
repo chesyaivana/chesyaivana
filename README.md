@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Chesya - aka [Chesya Ivana]👋
+## About me:
+- 🔭 I’m currently working as Stundent of Information System at DEL Institute of Technology
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate as Project Manager
+- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 💬 Ask me about anything
+- 📫 How to reach me: chesyaivana98@gmail.com
 
-<!--
-**chesyaivana/chesyaivana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
 
-Here are some ideas to get you started:
+#### 1. [Intitut teknologi DEL](https://www.del.ac.id/) | Bachelor of Information System | Sitoluama `2021 - now`
+   - Asistant Laboratorium of Computer Architecture and Organization
+   - Asistant Theory of computer architecture and organization
+   - Majelis Permusyawaratan Himpunan (MPH) of Himpunan Sistem Informasi (HIMSI)
+ #### 2. [SMA N 2 Balige](https://sman2balige.sch.id/) | MIPA | Balige `2019-2021`
+   - Chief of Culinary Division and leader of Culinary Extracurriculars
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work Experience:
+#### 1. [IT DEL](https://www.del.ac.id/) | Asistant Laboratorium and Theory of Computer Architecture and Organization | Sitoluama `Feb'2023 - Now`
+   - Assisting Lecturers in providing additional information and instructions to students, both in theory and practicum sessions
+   
