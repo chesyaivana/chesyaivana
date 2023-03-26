@@ -1,9 +1,9 @@
 # Hi there, I'm Chesya - aka [Chesya Ivana]👋
 ## About me:
 - 🔭 I’m currently working as Stundent of Information System at DEL Institute of Technology
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and scrum
 - 👯 I’m looking to collaborate as Project Manager
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+<!-- - 🤔 I’m looking for suggest for Automation and Data Analyst -->
 - 💬 Ask me about anything
 - 📫 How to reach me: chesyaivana98@gmail.com
 
