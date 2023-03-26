@@ -33,7 +33,8 @@
 ### 3. [Dasar-dasar DevOps] | Dicoding | 'Oct 2022 – Des 2022'
     - Get to know DevOps and the terms used and provide an overview of the world of work.
     - Link Certification: https://drive.google.com/file/d/1CAnjEgw_6SqV1Iz24fT0GN6jr2DxEe79/view
-    <h1 align="center">Hi 👋, I'm Chesya Ivana</h1>
+
+<h1 align="center">Hi 👋, I'm Chesya Ivana</h1>
 
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying Information system at Institut Teknologi Del. \
