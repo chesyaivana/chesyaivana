@@ -34,12 +34,12 @@
     - Get to know DevOps and the terms used and provide an overview of the world of work.
     - Link Certification: https://drive.google.com/file/d/1CAnjEgw_6SqV1Iz24fT0GN6jr2DxEe79/view
 
-<h1 align="center">Hi 👋, I'm Chesya Ivana</h1>
+<!-- <h1 align="center">Hi 👋, I'm Chesya Ivana</h1>
 
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently studying Information system at Institut Teknologi Del. \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and technology. 
-
+ -->
 
 <p align="center">
   <a href="mailto:chesyaivana98@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
